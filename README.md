@@ -10,7 +10,7 @@ changed pins to use a MKS DLC 2.0  (Firmware in downloads)
 coming soon....    Arduino Uno CNC Shield  KeyeStudio Nano CNC Shield 2016, yellow and black  ( Never use the red clone 2014 Version on Ali express, Ebay or Amazon, they have the stepper Jumpers going to ground, the jumper or useless. search Nano CNC shield and you will find why).
 
 Added parts I work with to create electromagnet coils.
-Step and Fusion360 files
+Step files. For Fusion360 files, get from here https://www.thingiverse.com/thing:6918293/files
 
 MGN9 Linear Rail     https://www.aliexpress.us/w/wholesale-MG9-H-250mm-Linear-Rail.html?spm=a2g0o.productlist.search.0    https://www.aliexpress.us/item/3256807753002598.html
 Bearings used is:
