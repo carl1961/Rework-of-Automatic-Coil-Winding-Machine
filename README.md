@@ -104,3 +104,12 @@ Winding
 Starting Coil
 Winding In 
 progress ....  Moves back ant forth using EndStops to reverse.
+
+
+
+
+#First Good Run
+
+![first run](https://github.com/user-attachments/assets/92ebb90a-9a6e-4a0d-b1cc-f810f2bca6af)
+More tweaking the endstops to get rid of over run. 
+
